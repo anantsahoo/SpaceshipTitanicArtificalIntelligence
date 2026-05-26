@@ -31,6 +31,10 @@ We started with Kaggle’s baseline Random Forest model and improved performance
 - Kaggle, *Spaceship Titanic Competition*.  
 [Kaggle Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 
+## License
+
+This repository’s original code is licensed under the MIT License. Any external datasets, libraries, or third-party materials used in this project are subject to their respective licenses and terms of use.
+
 ## Contact and Collaboration
 
 I am open to feedback, questions, and collaboration related to this project.
