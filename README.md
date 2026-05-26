@@ -1,7 +1,5 @@
 # Spaceship Titanic Challenge
 
-## Overview
-
 This project addresses Kaggle’s **Spaceship Titanic** classification challenge, where the goal is to predict whether passengers were transported to an alternate dimension after a spacetime anomaly.
 
 We started with Kaggle’s baseline Random Forest model and improved performance through better preprocessing and hyperparameter tuning.
@@ -32,3 +30,18 @@ We started with Kaggle’s baseline Random Forest model and improved performance
 
 - Kaggle, *Spaceship Titanic Competition*.  
 [Kaggle Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic/overview)
+
+## Contact and Collaboration
+
+I am open to feedback, questions, and collaboration related to this project.
+
+For project-related messages, please include the repository name in the subject line so I can easily identify the context.
+
+Suggested subject lines:
+
+- `Question about [SpaceshipTitanicArtificalIntelligence]`
+- `Collaboration Opportunity - [SpaceshipTitanicArtificalIntelligence]`
+- `Bug Report or Feedback - [SpaceshipTitanicArtificalIntelligence]`
+
+- GitHub: [@anantsahoo](https://github.com/anantsahoo)
+- LinkedIn: [Anant Sahoo](https://www.linkedin.com/in/anant-j-sahoo/)
