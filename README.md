@@ -33,7 +33,9 @@ We started with Kaggle’s baseline Random Forest model and improved performance
 
 ## License
 
-This repository’s original code is licensed under the MIT License. Any external datasets, libraries, or third-party materials used in this project are subject to their respective licenses and terms of use.
+This repository’s original code is licensed under the MIT License. See the `LICENSE` file for details.
+
+Any external datasets, libraries, lecture materials, papers, or third-party resources used in this repository are subject to their respective licenses and terms of use.
 
 ## Contact and Collaboration
 
